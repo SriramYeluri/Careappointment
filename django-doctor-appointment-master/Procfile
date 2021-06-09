@@ -1,1 +1,1 @@
-web: gunicorn django-doctor-appointment-master.wsgi --log-file -
+web: gunicorn doctor_appointment_system.wsgi --log-file -
