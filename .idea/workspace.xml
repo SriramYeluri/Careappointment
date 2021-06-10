@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="settings">
-      <change beforePath="$PROJECT_DIR$/django-doctor-appointment-master/doctor_appointment_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-doctor-appointment-master/doctor_appointment_system/settings.py" afterDir="false" />
+    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="131">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623303619133</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="131">
+      <created>1623303988168</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1623303988168</updated>
+    </task>
+    <task id="LOCAL-00017" summary="131">
+      <created>1623304207294</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1623304207294</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +196,7 @@
     <MESSAGE value="runtime" />
     <MESSAGE value="Proc name" />
     <MESSAGE value="settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="settings" />
+    <MESSAGE value="131" />
+    <option name="LAST_COMMIT_MESSAGE" value="131" />
   </component>
 </project>
