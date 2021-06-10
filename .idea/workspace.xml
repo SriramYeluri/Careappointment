@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="procfile2">
-      <change afterPath="$PROJECT_DIR$/django-doctor-appointment-master/runtime.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="Proc name">
+      <change beforePath="$PROJECT_DIR$/django-doctor-appointment-master/doctor_appointment_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-doctor-appointment-master/doctor_appointment_system/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623248664119</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="runtime">
+      <created>1623303340957</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1623303340957</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Proc name">
+      <created>1623303406614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1623303406614</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +172,8 @@
     <MESSAGE value="heroku settings" />
     <MESSAGE value="procfile" />
     <MESSAGE value="procfile2" />
-    <option name="LAST_COMMIT_MESSAGE" value="procfile2" />
+    <MESSAGE value="runtime" />
+    <MESSAGE value="Proc name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proc name" />
   </component>
 </project>
