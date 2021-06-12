@@ -8,7 +8,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 from appointment.views import PatientListView
 from django.views.generic import TemplateView
-from django.views.static import server
+from django.views.static import serve
 from django.conf.urls import url
 
 urlpatterns = [

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="removed runtime">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="requiremnts changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor_appointment_system/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor_appointment_system/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor_appointment_system/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor_appointment_system/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623466309181</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="requiremnts changed">
+      <created>1623466534887</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1623466534887</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +229,7 @@
     <MESSAGE value="131" />
     <MESSAGE value="directory change" />
     <MESSAGE value="removed runtime" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed runtime" />
+    <MESSAGE value="requiremnts changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="requiremnts changed" />
   </component>
 </project>
