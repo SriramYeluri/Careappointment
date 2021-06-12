@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="directory change">
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
+    <list default="true" id="d89d2731-59d5-485f-b63a-8927503c1703" name="Default Changelist" comment="removed runtime">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623466034175</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="removed runtime">
+      <created>1623466309181</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1623466309181</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +219,7 @@
     <MESSAGE value="settings" />
     <MESSAGE value="131" />
     <MESSAGE value="directory change" />
-    <option name="LAST_COMMIT_MESSAGE" value="directory change" />
+    <MESSAGE value="removed runtime" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed runtime" />
   </component>
 </project>
