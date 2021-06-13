@@ -6,7 +6,7 @@ class CreateAppointmentForm(forms.ModelForm):
     def __init__(self, *args, **kwargs):
         super(CreateAppointmentForm, self).__init__(*args, **kwargs)
         self.fields['full_name'].label = "Full Name"
-        self.fields['image'].label = "Image"
+        # self.fields['image'].label = "Image"
         self.fields['department'].label = "Department"
         self.fields['start_time'].label = "Start Time"
         self.fields['hospital_name'].label = "Hospital Name"
@@ -37,7 +37,7 @@ class CreateAppointmentForm(forms.ModelForm):
         )
         self.fields['location'].widget.attrs.update(
             {
-                'placeholder': 'Ex : Uttara, Dhaka',
+                'placeholder': 'Ex : Bangalore, Karnataka',
             }
         )
 
