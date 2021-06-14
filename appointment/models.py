@@ -18,7 +18,7 @@ department = (
 class Appointment(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     full_name = models.CharField(max_length=100)
-    image = models.ImageField(null=True, blank=True)
+    image = models.FileField(null=True, blank=True)
     location = models.CharField(max_length=100)
     start_time = models.CharField(max_length=10)
     end_time = models.CharField(max_length=10)
@@ -30,6 +30,7 @@ class Appointment(models.Model):
 
     def __str__(self):
         return self.full_name
+
 
     # def get_absolute_url(self):
     # return reverse('appointment:delete-appointment', kwargs={'pk': self.pk})

@@ -129,6 +129,8 @@ class AppointmentCreateView(CreateView):
         form.instance.user = self.request.user
         return super(AppointmentCreateView, self).form_valid(form)
 
+
+
     def post(self, request, *args, **kwargs):
         self.object = None
         form = self.get_form()
